@@ -1,2 +1,2 @@
-# cwg-WidgetCreator-
+# CWG WidgetCreator
 CarWebGuru Widget Creator
