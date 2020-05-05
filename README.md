@@ -1,10 +1,10 @@
 # CarWebGuru Widget Creator
 
 # Содержание
- - [История версий]:https://github.com/SAn4Es-TV/CWG_Widget_Creator/blob/master/README.md#история-версий
- - [Описание]:https://github.com/SAn4Es-TV/CWG_Widget_Creator/blob/master/README.md#описание
- - [Инструкция]:https://github.com/SAn4Es-TV/CWG_Widget_Creator/blob/master/README.md#инструкция
- - [внимание!]:https://github.com/SAn4Es-TV/CWG_Widget_Creator/blob/master/README.md#внимание
+ - [История версий]
+ - [Описание]
+ - [Инструкция]
+ - [Внимание!]
 
 
 
@@ -56,3 +56,9 @@
 
 ###  Если нашли ошибку, пишите на почту:
 > sanes328@gmail.com
+
+
+ [История версий]:https://github.com/SAn4Es-TV/CWG_Widget_Creator/blob/master/README.md#история-версий
+ [Описание]:https://github.com/SAn4Es-TV/CWG_Widget_Creator/blob/master/README.md#описание
+ [Инструкция]:https://github.com/SAn4Es-TV/CWG_Widget_Creator/blob/master/README.md#инструкция
+ [внимание!]:https://github.com/SAn4Es-TV/CWG_Widget_Creator/blob/master/README.md#внимание
