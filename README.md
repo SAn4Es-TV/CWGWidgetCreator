@@ -10,15 +10,15 @@
 
 ## История версий
 
- - #### 0.5       - 04.05.2020 - 09:20
+ - #### 0.5 - 04.05.2020 - 09:20 - [CarWebGuru Widget Creator 0.5]
 
     >  Первая версия программы
 
- - #### 1.0 - 04.05.2020 - 09:46 - 
+ - #### 1.0 - 04.05.2020 - 09:46 - [CarWebGuru Widget Creator 1.0]
 
     >  Добавлен визуализатор
 
- - #### 1.5 - 05.05.2020 - 17:35 - 
+ - #### 1.5 - 05.05.2020 - 17:35 - [CarWebGuru Widget Creator 1.5]
 
     >  Добавлена панель настроек справа
     >   - Как пользоватся:
@@ -62,3 +62,7 @@
  [Описание]:https://github.com/SAn4Es-TV/CWG_Widget_Creator/blob/master/README.md#описание
  [Инструкция]:https://github.com/SAn4Es-TV/CWG_Widget_Creator/blob/master/README.md#инструкция
  [внимание!]:https://github.com/SAn4Es-TV/CWG_Widget_Creator/blob/master/README.md#внимание
+ 
+ [CarWebGuru Widget Creator 0.5]: https://github.com/SAn4Es-TV/CWG_Widget_Creator/tree/master/Versions/CWG%20Widget%20Creator%200.5
+ [CarWebGuru Widget Creator 1.0]: https://github.com/SAn4Es-TV/CWG_Widget_Creator/tree/master/Versions/CWG%20Widget%20Creator%201.0
+ [CarWebGuru Widget Creator 1.5]:https://github.com/SAn4Es-TV/CWG_Widget_Creator/tree/master/Versions/CWG%20Widget%20Creator%201.5
