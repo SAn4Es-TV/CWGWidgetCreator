@@ -14,17 +14,23 @@
 
     >  Первая версия программы
 
- - #### 1.0 - 04.05.2020 - 09:46 - [CarWebGuru Widget Creator 1.0]
+ - #### 0.7 - 04.05.2020 - 09:46 - [CarWebGuru Widget Creator 0.7]
 
     >  Добавлен визуализатор
 
- - #### 1.5 - 05.05.2020 - 17:35 - [CarWebGuru Widget Creator 1.5]
+ - #### 0.8 - 05.05.2020 - 17:35 - [CarWebGuru Widget Creator 0.8]
 
     >  Добавлена панель настроек справа
     >   - Как пользоватся:
-    >   * 1  Создать элемент как в прошлых версиях.
+    >   * 1 Создать элемент как в прошлых версиях.
     >   * 2 Справа настроить БОЛЕЕ ТОЧНО.
     >   * 3 НАЖАТЬ КНОПКУ "ОК" (Если не нажать, то элемент не добавится в виджет!!)
+
+ - #### 0.9 - 07.05.2020 - 16:02 - [CarWebGuru Widget Creator 0.9]
+
+    >  Добавлена возможность мышкой выбрать элемент для редактирования 
+    >   * Важно! Если отредактировать один элемент ДВА РАЗА, то в xml СОЗДАЁТСЯ ДВА ЭЛЕМЕНТА!!!
+    >   * Нужно будет редактировать xml(Удалять ненужные элементы).
 
     
 ## Описание
@@ -64,5 +70,6 @@
  [внимание!]:https://github.com/SAn4Es-TV/CWG_Widget_Creator/blob/master/README.md#внимание
  
  [CarWebGuru Widget Creator 0.5]: https://github.com/SAn4Es-TV/CWG_Widget_Creator/tree/master/Versions/CWG%20Widget%20Creator%200.5
- [CarWebGuru Widget Creator 1.0]: https://github.com/SAn4Es-TV/CWG_Widget_Creator/tree/master/Versions/CWG%20Widget%20Creator%201.0
- [CarWebGuru Widget Creator 1.5]:https://github.com/SAn4Es-TV/CWG_Widget_Creator/tree/master/Versions/CWG%20Widget%20Creator%201.5
+ [CarWebGuru Widget Creator 0.7]: https://github.com/SAn4Es-TV/CWG_Widget_Creator/tree/master/Versions/CWG%20Widget%20Creator%200.7
+ [CarWebGuru Widget Creator 0.8]:https://github.com/SAn4Es-TV/CWG_Widget_Creator/tree/master/Versions/CWG%20Widget%20Creator%200.8
+ [CarWebGuru Widget Creator 0.9]:https://github.com/SAn4Es-TV/CWG_Widget_Creator/tree/master/Versions/CWG%20Widget%20Creator%200.9
